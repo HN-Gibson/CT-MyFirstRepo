@@ -1,0 +1,5 @@
+I spent my first week learning more about hardware and software, as well as the structure of the coding and development field. 
+This included information about which component does what in a PC and how each role on a software development team functions in relation to others. 
+It feels like I am starting to get a feel for how the systems work, not just in regards to the tech, but also in regards to the people who build the tech.
+
+I am just starting to dip my toes into the waters of coding on python and it feels good!
