@@ -10,3 +10,6 @@ Development Teams
 Algorithms
 
 Development Environment
+
+Python:
+    - Syntax
