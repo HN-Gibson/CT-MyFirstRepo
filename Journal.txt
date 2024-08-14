@@ -1,2 +1,3 @@
 8/11/2024 - Wrapping up module 1. So far all seems to be going well enough. A few hiccups along the way, but nothing to worry over. Ready to start coding!
 8/13/2024 - Finally getting through the first lesson of the second module. It has been a slow couple of days as I adjust to learning Python. But, I am starting to get into a groove!
+8/14/2024 - I got full credit on my first real coding assignment today with awesome feedback from my reviewer. I am feeling like I am really getting the hang of things. Didn't make as much progress on my lessons as I would like, but I feel like I'm really absorbing the material.
