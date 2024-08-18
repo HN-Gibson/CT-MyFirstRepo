@@ -1,0 +1,5 @@
+I spent week two diving into more of how python works. I learned a lot about if statements in particular and how to properly implement them.
+
+I see the value of these functions within Python as they allow the program to run through a variety of conditional statements, performing operations with the variables and producing output related to the results.
+
+I see the ability for Python to be used in creating interactive programs that take user input and give response. I still have a lot more to learn. I look forward to learning more about storing data to be use throughout my coding in the lessons ahead.
