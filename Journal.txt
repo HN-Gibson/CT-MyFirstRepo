@@ -2,3 +2,4 @@
 8/13/2024 - Finally getting through the first lesson of the second module. It has been a slow couple of days as I adjust to learning Python. But, I am starting to get into a groove!
 8/14/2024 - I got full credit on my first real coding assignment today with awesome feedback from my reviewer. I am feeling like I am really getting the hang of things. Didn't make as much progress on my lessons as I would like, but I feel like I'm really absorbing the material.
 8/17/2024 - I took the last couple of days off to rest my brain. I was beginning to experience a lot of fatigue working on the lessons. Got back at it today and completed lesson 2 of module 2.
+8/21/2024 - Been a few days since I added an entry. It's been a busy week and I've been sick, but I've made progress on module 2. I learned the basics of list, loops, functions, strings, and exception handling. I am going to work on the mini-project tomorrow.
