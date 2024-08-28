@@ -3,3 +3,5 @@
 8/14/2024 - I got full credit on my first real coding assignment today with awesome feedback from my reviewer. I am feeling like I am really getting the hang of things. Didn't make as much progress on my lessons as I would like, but I feel like I'm really absorbing the material.
 8/17/2024 - I took the last couple of days off to rest my brain. I was beginning to experience a lot of fatigue working on the lessons. Got back at it today and completed lesson 2 of module 2.
 8/21/2024 - Been a few days since I added an entry. It's been a busy week and I've been sick, but I've made progress on module 2. I learned the basics of list, loops, functions, strings, and exception handling. I am going to work on the mini-project tomorrow.
+8/22/2024 - I finished module 2 and feel confident that I can navigate lists while performing functions and loops.
+8/28/2024 - Took the past few days off as I was very sick and needed to recover. Got back at it with learning about dictionaries in Python. I am trying hard to wrap my head around everything, but feel I may need to refresh myself on some of the basics before continuing too far.
