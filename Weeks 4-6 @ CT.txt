@@ -1,0 +1,7 @@
+It's been a slow few weeks! I got ahead of schedule so I decided to take some time to myself to focus on integrating all of what I've learned. 
+
+I spent about a week working on CodeWars and found that I am slowly but surely gathering a lot of information and learning a lot.
+
+That being said, it is time to get back on track with the course material and start pumping out some modules. 
+
+I am going to start by playing around with file handling today to manage and add to my journal, as well as creating new summary files for each week.
