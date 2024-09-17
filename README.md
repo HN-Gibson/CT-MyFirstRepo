@@ -1,15 +1,4 @@
 # **CT-MyFirstRepo**
 ## ***The Journey So Far***
 
-Software
-
-Hardware
-
-Development Teams
-
-Algorithms
-
-Development Environment
-
-Python:
-    - Syntax
+This is where I will keep track of my progress and check in as often as I am able to record my journey through Coding Temple's program.
