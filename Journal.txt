@@ -7,3 +7,4 @@
 8/28/2024 - Took the past few days off as I was very sick and needed to recover. Got back at it with learning about dictionaries in Python. I am trying hard to wrap my head around everything, but feel I may need to refresh myself on some of the basics before continuing too far.
 9/17/2024 - Has it really been nearly three weeks since I checked in? Wow! I haven't covered a lot of the course, but I worked on my CodeWars and got that going. I'm also wrapping up module 3. It's been a whirlwind. Trying hard to keep track of all the different data types from strings, integers, and boolean to lists, dictionaries, tuples, and sets.
 9/17/2024 - This is my first entry using a program with file handling.
+9/18/2024 - I spent the day working on my file handling assignment, but I am having trouble with permissions. I need to wait for some help from my coach.

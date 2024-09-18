@@ -2,7 +2,7 @@
 def add_journal_entry (date):
     entry = input("What would you like to log?\n")
     with open('Journal.txt', 'a') as file:
-        file.write(f"{date} - {entry}")
+        file.write(f"\n{date} - {entry}")
         return print("Log Added!")
 #Create a function for adding a new Weekly summary
 def add_weekly_log (week):
@@ -22,10 +22,10 @@ while True:
     user_selection = input("Type 'weekly' to add a weekly log or 'daily' to add a daily log.\nEnter 'quit' to exit:\n").lower
     if user_selection() == "quit":
         break
-    if user_selection() == "weekly":
+    elif user_selection() == "weekly":
         log_week=input("Enter the number value for the weeks you would like to log:\n")
         add_weekly_log(log_week)
-    if user_selection() == "daily":
+    elif user_selection() == "daily":
         log_day=input("Please enter the date for your entry\n(month/day/year):\n")
         add_journal_entry(log_day)
     else:
